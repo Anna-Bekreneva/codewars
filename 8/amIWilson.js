@@ -7,5 +7,3 @@ function amIWilson(p) {
 }
 
 console.log(amIWilson(136))
-
-// 5, 13, 563
