@@ -8,7 +8,3 @@ function even_or_odd(number) {
 
     return result
 }
-
-
-
-console.log(even_or_odd(5))
