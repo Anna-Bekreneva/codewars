@@ -28,4 +28,3 @@ function countPositivesSumNegatives(input) {
     }
 }
 
-console.log(countPositivesSumNegatives([]))
