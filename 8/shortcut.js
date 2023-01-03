@@ -4,7 +4,6 @@ function shortcut (string) {
 
     for (let i = 0; i < arrayLetters.length; i++) {
         if (string.includes(arrayLetters[i])) {
-            const element = arrayLetters[i]
             newString = newString.replaceAll(arrayLetters[i], "")
         }
     }
